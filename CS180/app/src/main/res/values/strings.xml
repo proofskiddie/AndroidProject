@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS180</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Throw_Die">Throw Die</string>
+    <string name="Throw">Throw</string>
+    <string name="Reset">Reset</string>
+    <string name="action_settings">Settings</string>
+</resources>
